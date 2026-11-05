@@ -72,4 +72,4 @@ To ensure the MOSFET operates as a linear amplifier, it must stay in the saturat
 =======
 # NMOS_CS_Amplifier
 NMOS common-source amplifier in LTspice: DC bias verification vs. hand calculations, transient gain, and Bode-plot frequency response.
->>>>>>> 61b69d54c82400704af2b1188fdf6ab0bb3a6c1e
+
