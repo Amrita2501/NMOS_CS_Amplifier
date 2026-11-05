@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NMOS Common-Source Amplifier Simulation (LTspice)
 
 ## 📌 Project Overview
@@ -68,3 +69,7 @@ To ensure the MOSFET operates as a linear amplifier, it must stay in the saturat
 1. Download and install [LTspice](https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html).
 2. Clone this repository and open `NMOS_CS_Amplifier.asc`.
 3. Click **Run** to view the simulation results (uncomment `.op`, `.tran`, or `.ac` directives on the schematic depending on which analysis you want to run).
+=======
+# NMOS_CS_Amplifier
+NMOS common-source amplifier in LTspice: DC bias verification vs. hand calculations, transient gain, and Bode-plot frequency response.
+>>>>>>> 61b69d54c82400704af2b1188fdf6ab0bb3a6c1e
